@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:58:43.366Z",
+  "generated_at": "2026-09-28T12:58:45.048Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -195,6 +195,45 @@
       "last_pushed_at": "2026-03-04T01:52:33.919Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-03-05T02:28:39.817Z",
+      "last_pushed_at": "2026-03-05T02:28:39.817Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-03-05T06:35:11.258Z",
+      "last_pushed_at": "2026-03-05T06:35:11.258Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-03-05T08:32:28.436Z",
+      "last_pushed_at": "2026-03-05T08:32:28.436Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
