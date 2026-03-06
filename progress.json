@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:58:45.048Z",
+  "generated_at": "2026-09-28T12:58:47.103Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,58 @@
       "last_pushed_at": "2026-03-05T08:32:28.436Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-03-06T00:56:29.763Z",
+      "last_pushed_at": "2026-03-06T00:56:29.763Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-03-06T01:06:25.238Z",
+      "last_pushed_at": "2026-03-06T01:06:25.238Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-03-06T01:20:59.193Z",
+      "last_pushed_at": "2026-03-06T01:20:59.193Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-03-06T02:19:20.022Z",
+      "last_pushed_at": "2026-03-06T02:19:20.022Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
