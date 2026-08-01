@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:58:52.611Z",
+  "generated_at": "2026-09-28T12:58:54.261Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,43 @@
       "last_pushed_at": "2026-03-26T08:21:48.522Z",
       "language": "python",
       "lines": 38
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-01T09:47:55.335Z",
+      "last_pushed_at": "2026-08-01T09:47:55.335Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-08-01T10:20:26.314Z",
+      "last_pushed_at": "2026-08-01T10:20:26.314Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-08-01T23:30:19.790Z",
+      "last_pushed_at": "2026-08-01T23:30:19.790Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
