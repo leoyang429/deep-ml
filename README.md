@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 53 problems · 0 labs · 25 math
+**79** solved · 54 problems · 0 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-03-26 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-09-08 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-04 | [solution](problems/0017-k-means-clustering) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-09-29 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-08 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-02-11 | [solution](problems/0007-matrix-transformation) |
