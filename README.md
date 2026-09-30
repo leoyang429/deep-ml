@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**95** solved · 66 problems · 0 labs · 29 math
+**96** solved · 66 problems · 1 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-03-24 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-29 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-29 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-30 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
