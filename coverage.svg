@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="375" viewBox="0 0 880 375" role="img" aria-label="Deep-ML coverage: 62 of 1472 problems solved">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="375" viewBox="0 0 880 375" role="img" aria-label="Deep-ML coverage: 63 of 1483 problems solved">
 <style>
   .bg{fill:#ffffff}.tx{fill:#18181b}.dim{fill:#71717a}.none{fill:#e4e4e7}
   .e{fill:#15a349}.m{fill:#d08700}.h{fill:#dc2626}.u{fill:#a1a1aa}
@@ -83,28 +83,28 @@
 <rect x="650" y="32" width="7" height="7" rx="1.5" class="none"/>
 <rect x="659" y="32" width="7" height="7" rx="1.5" class="none"/>
 <rect x="668" y="32" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="57" class="tx" font-size="11" font-family="ui-monospace,monospace">Machine Learning</text>
-<text x="860" y="57" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">13/293</text>
+<text x="20" y="57" class="tx" font-size="11" font-family="ui-monospace,monospace">Deep Learning</text>
+<text x="860" y="57" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">13/325</text>
 <rect x="20" y="65" width="7" height="7" rx="1.5" class="e"/>
 <rect x="29" y="65" width="7" height="7" rx="1.5" class="e"/>
 <rect x="38" y="65" width="7" height="7" rx="1.5" class="e"/>
 <rect x="47" y="65" width="7" height="7" rx="1.5" class="m"/>
 <rect x="56" y="65" width="7" height="7" rx="1.5" class="m"/>
-<rect x="65" y="65" width="7" height="7" rx="1.5" class="m"/>
-<rect x="74" y="65" width="7" height="7" rx="1.5" class="h"/>
+<rect x="65" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="74" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="83" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="92" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="92" y="65" width="7" height="7" rx="1.5" class="e"/>
 <rect x="101" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="110" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="119" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="119" y="65" width="7" height="7" rx="1.5" class="m"/>
 <rect x="128" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="137" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="137" y="65" width="7" height="7" rx="1.5" class="e"/>
 <rect x="146" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="155" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="164" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="164" y="65" width="7" height="7" rx="1.5" class="h"/>
 <rect x="173" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="182" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="191" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="191" y="65" width="7" height="7" rx="1.5" class="h"/>
 <rect x="200" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="209" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="218" y="65" width="7" height="7" rx="1.5" class="none"/>
@@ -112,7 +112,7 @@
 <rect x="236" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="245" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="254" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="263" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="263" y="65" width="7" height="7" rx="1.5" class="m"/>
 <rect x="272" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="281" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="290" y="65" width="7" height="7" rx="1.5" class="none"/>
@@ -123,7 +123,7 @@
 <rect x="335" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="344" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="353" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="362" y="65" width="7" height="7" rx="1.5" class="m"/>
+<rect x="362" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="371" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="380" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="389" y="65" width="7" height="7" rx="1.5" class="none"/>
@@ -141,8 +141,8 @@
 <rect x="497" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="506" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="515" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="524" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="533" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="524" y="65" width="7" height="7" rx="1.5" class="e"/>
+<rect x="533" y="65" width="7" height="7" rx="1.5" class="m"/>
 <rect x="542" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="551" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="560" y="65" width="7" height="7" rx="1.5" class="none"/>
@@ -169,14 +169,14 @@
 <rect x="749" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="758" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="767" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="776" y="65" width="7" height="7" rx="1.5" class="e"/>
-<rect x="785" y="65" width="7" height="7" rx="1.5" class="m"/>
+<rect x="776" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="785" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="794" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="803" y="65" width="7" height="7" rx="1.5" class="m"/>
-<rect x="812" y="65" width="7" height="7" rx="1.5" class="m"/>
+<rect x="803" y="65" width="7" height="7" rx="1.5" class="none"/>
+<rect x="812" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="821" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="830" y="65" width="7" height="7" rx="1.5" class="none"/>
-<rect x="839" y="65" width="7" height="7" rx="1.5" class="m"/>
+<rect x="839" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="848" y="65" width="7" height="7" rx="1.5" class="none"/>
 <rect x="20" y="74" width="7" height="7" rx="1.5" class="none"/>
 <rect x="29" y="74" width="7" height="7" rx="1.5" class="none"/>
@@ -378,28 +378,60 @@
 <rect x="119" y="92" width="7" height="7" rx="1.5" class="none"/>
 <rect x="128" y="92" width="7" height="7" rx="1.5" class="none"/>
 <rect x="137" y="92" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="117" class="tx" font-size="11" font-family="ui-monospace,monospace">Deep Learning</text>
-<text x="860" y="117" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">12/325</text>
+<rect x="146" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="155" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="164" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="173" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="182" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="191" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="200" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="209" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="218" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="227" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="236" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="245" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="254" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="263" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="272" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="281" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="290" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="299" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="308" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="317" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="326" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="335" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="344" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="353" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="362" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="371" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="380" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="389" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="398" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="407" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="416" y="92" width="7" height="7" rx="1.5" class="none"/>
+<rect x="425" y="92" width="7" height="7" rx="1.5" class="none"/>
+<text x="20" y="117" class="tx" font-size="11" font-family="ui-monospace,monospace">Machine Learning</text>
+<text x="860" y="117" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">13/294</text>
 <rect x="20" y="125" width="7" height="7" rx="1.5" class="e"/>
 <rect x="29" y="125" width="7" height="7" rx="1.5" class="e"/>
 <rect x="38" y="125" width="7" height="7" rx="1.5" class="e"/>
 <rect x="47" y="125" width="7" height="7" rx="1.5" class="m"/>
 <rect x="56" y="125" width="7" height="7" rx="1.5" class="m"/>
-<rect x="65" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="74" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="65" y="125" width="7" height="7" rx="1.5" class="m"/>
+<rect x="74" y="125" width="7" height="7" rx="1.5" class="h"/>
 <rect x="83" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="92" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="101" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="110" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="119" y="125" width="7" height="7" rx="1.5" class="m"/>
+<rect x="119" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="128" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="137" y="125" width="7" height="7" rx="1.5" class="e"/>
+<rect x="137" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="146" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="155" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="164" y="125" width="7" height="7" rx="1.5" class="h"/>
+<rect x="164" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="173" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="182" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="191" y="125" width="7" height="7" rx="1.5" class="h"/>
+<rect x="191" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="200" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="209" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="218" y="125" width="7" height="7" rx="1.5" class="none"/>
@@ -407,7 +439,7 @@
 <rect x="236" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="245" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="254" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="263" y="125" width="7" height="7" rx="1.5" class="m"/>
+<rect x="263" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="272" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="281" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="290" y="125" width="7" height="7" rx="1.5" class="none"/>
@@ -418,7 +450,7 @@
 <rect x="335" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="344" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="353" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="362" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="362" y="125" width="7" height="7" rx="1.5" class="m"/>
 <rect x="371" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="380" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="389" y="125" width="7" height="7" rx="1.5" class="none"/>
@@ -436,8 +468,8 @@
 <rect x="497" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="506" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="515" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="524" y="125" width="7" height="7" rx="1.5" class="e"/>
-<rect x="533" y="125" width="7" height="7" rx="1.5" class="m"/>
+<rect x="524" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="533" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="542" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="551" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="560" y="125" width="7" height="7" rx="1.5" class="none"/>
@@ -464,14 +496,14 @@
 <rect x="749" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="758" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="767" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="776" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="785" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="776" y="125" width="7" height="7" rx="1.5" class="e"/>
+<rect x="785" y="125" width="7" height="7" rx="1.5" class="m"/>
 <rect x="794" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="803" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="812" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="803" y="125" width="7" height="7" rx="1.5" class="m"/>
+<rect x="812" y="125" width="7" height="7" rx="1.5" class="m"/>
 <rect x="821" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="830" y="125" width="7" height="7" rx="1.5" class="none"/>
-<rect x="839" y="125" width="7" height="7" rx="1.5" class="none"/>
+<rect x="839" y="125" width="7" height="7" rx="1.5" class="m"/>
 <rect x="848" y="125" width="7" height="7" rx="1.5" class="none"/>
 <rect x="20" y="134" width="7" height="7" rx="1.5" class="none"/>
 <rect x="29" y="134" width="7" height="7" rx="1.5" class="none"/>
@@ -674,37 +706,6 @@
 <rect x="128" y="152" width="7" height="7" rx="1.5" class="none"/>
 <rect x="137" y="152" width="7" height="7" rx="1.5" class="none"/>
 <rect x="146" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="155" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="164" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="173" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="182" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="191" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="200" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="209" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="218" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="227" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="236" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="245" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="254" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="263" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="272" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="281" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="290" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="299" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="308" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="317" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="326" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="335" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="344" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="353" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="362" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="371" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="380" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="389" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="398" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="407" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="416" y="152" width="7" height="7" rx="1.5" class="none"/>
-<rect x="425" y="152" width="7" height="7" rx="1.5" class="none"/>
 <text x="20" y="177" class="tx" font-size="11" font-family="ui-monospace,monospace">Statistics</text>
 <text x="860" y="177" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">4/45</text>
 <rect x="20" y="185" width="7" height="7" rx="1.5" class="e"/>
@@ -986,8 +987,8 @@
 <rect x="182" y="269" width="7" height="7" rx="1.5" class="none"/>
 <rect x="191" y="269" width="7" height="7" rx="1.5" class="none"/>
 <rect x="200" y="269" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="294" class="tx" font-size="11" font-family="ui-monospace,monospace">NLP</text>
-<text x="860" y="294" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">0/74</text>
+<text x="20" y="294" class="tx" font-size="11" font-family="ui-monospace,monospace">Pytorch</text>
+<text x="860" y="294" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">0/77</text>
 <rect x="20" y="302" width="7" height="7" rx="1.5" class="none"/>
 <rect x="29" y="302" width="7" height="7" rx="1.5" class="none"/>
 <rect x="38" y="302" width="7" height="7" rx="1.5" class="none"/>
@@ -1062,7 +1063,10 @@
 <rect x="659" y="302" width="7" height="7" rx="1.5" class="none"/>
 <rect x="668" y="302" width="7" height="7" rx="1.5" class="none"/>
 <rect x="677" y="302" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="327" class="tx" font-size="11" font-family="ui-monospace,monospace">Pytorch</text>
+<rect x="686" y="302" width="7" height="7" rx="1.5" class="none"/>
+<rect x="695" y="302" width="7" height="7" rx="1.5" class="none"/>
+<rect x="704" y="302" width="7" height="7" rx="1.5" class="none"/>
+<text x="20" y="327" class="tx" font-size="11" font-family="ui-monospace,monospace">NLP</text>
 <text x="860" y="327" class="dim" font-size="11" text-anchor="end" font-family="ui-monospace,monospace">0/74</text>
 <rect x="20" y="335" width="7" height="7" rx="1.5" class="none"/>
 <rect x="29" y="335" width="7" height="7" rx="1.5" class="none"/>
@@ -1138,5 +1142,5 @@
 <rect x="659" y="335" width="7" height="7" rx="1.5" class="none"/>
 <rect x="668" y="335" width="7" height="7" rx="1.5" class="none"/>
 <rect x="677" y="335" width="7" height="7" rx="1.5" class="none"/>
-<text x="20" y="366" class="dim" font-size="10.5" font-family="ui-monospace,monospace">62 of 1472 problems solved on Deep-ML  ·  top 8 categories shown</text>
+<text x="20" y="366" class="dim" font-size="10.5" font-family="ui-monospace,monospace">63 of 1483 problems solved on Deep-ML  ·  top 8 categories shown</text>
 </svg>
