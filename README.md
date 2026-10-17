@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 80 problems · 2 labs · 29 math
+**112** solved · 81 problems · 2 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-08 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-02-10 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-14 | [solution](problems/1228-mean-squared-error-from-scratch) |
+| [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-17 | [solution](problems/0146-momentum-optimizer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-30 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-02-10 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-02-10 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
