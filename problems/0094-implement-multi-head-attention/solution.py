@@ -1,56 +1,52 @@
-import numpy as np
+import torch
+import torch.nn.functional as F
+import torch.nn as nn
 from typing import Tuple
 
-def compute_qkv(X: np.ndarray, W_q: np.ndarray, W_k: np.ndarray, W_v: np.ndarray) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+def compute_qkv(X: torch.Tensor, W_q: torch.Tensor, W_k: torch.Tensor, W_v: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:
     """
     Compute Query, Key, and Value matrices.
-    
+
     Args:
         X: Input matrix of shape (seq_len, d_model)
         W_q, W_k, W_v: Weight matrices of shape (d_model, d_model)
-    
+
     Returns:
         Q, K, V matrices each of shape (seq_len, d_model)
     """
     # Your code here
     return X @ W_q, X @ W_k, X @ W_v
 
-def self_attention(Q: np.ndarray, K: np.ndarray, V: np.ndarray) -> np.ndarray:
+def self_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor) -> torch.Tensor:
     """
     Compute scaled dot-product self-attention.
-    
+
     Args:
         Q: Query matrix of shape (seq_len, d_k)
         K: Key matrix of shape (seq_len, d_k)
         V: Value matrix of shape (seq_len, d_k)
-    
+
     Returns:
         Attention output of shape (seq_len, d_k)
     """
     # Your code here
-    def row_softmax(X):
-        x_max = np.amax(X, axis=1, keepdims=True)
-        x_exp = np.exp(X - x_max)
-        return x_exp / np.sum(x_exp, axis=1, keepdims=True)
+    _, k = Q.shape[-2:]
+    return F.softmax(Q @ K.transpose(-2, -1) / (k ** 0.5), dim=-1) @ V
 
-    return row_softmax(Q @ K.T / (Q.shape[1] ** 0.5)) @ V
-
-def multi_head_attention(Q: np.ndarray, K: np.ndarray, V: np.ndarray, n_heads: int) -> np.ndarray:
+def multi_head_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor, n_heads: int) -> torch.Tensor:
     """
     Compute multi-head attention.
-    
+
     Args:
         Q, K, V: Matrices of shape (seq_len, d_model)
         n_heads: Number of attention heads
-    
+
     Returns:
         Attention output of shape (seq_len, d_model)
     """
     # Your code here
-    Qs = np.array_split(Q, n_heads, axis=1)
-    Ks = np.array_split(K, n_heads, axis=1)
-    Vs = np.array_split(V, n_heads, axis=1)
-    Rs = []
-    for q, k, v in zip(Qs, Ks, Vs):
-        Rs.append(self_attention(q, k, v))
-    return np.concatenate(Rs, axis=1)
+    d, k = Q.shape
+    Q = Q.reshape(d, n_heads, -1).transpose(0, 1)
+    K = K.reshape(d, n_heads, -1).transpose(0, 1)
+    V = V.reshape(d, n_heads, -1).transpose(0, 1)
+    return self_attention(Q, K, V).transpose(0, 1).reshape(d, k)
