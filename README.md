@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**117** solved · 86 problems · 2 labs · 29 math
+**118** solved · 87 problems · 2 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-29 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-08 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-11-27 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-16 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-03-05 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-03-24 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
