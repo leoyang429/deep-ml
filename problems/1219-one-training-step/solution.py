@@ -17,7 +17,6 @@ def train_step(model, x, y, optimizer, loss_fn):
     optimizer.zero_grad()
     pred = model(x)
     loss = loss_fn(pred, y)
-    loss_val = float(loss.item())
     loss.backward()
     optimizer.step()
-    return loss_val
+    return float(loss.item())
