@@ -13,4 +13,4 @@ def count_params():
         nn.ReLU(),
         nn.Linear(8, 2)
     )
-    return sum([p.numel() for p in model.parameters()])
+    return sum([p.numel() for p in model.parameters() if p.requires_grad])
